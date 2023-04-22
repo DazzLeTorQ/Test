@@ -1,15 +1,91 @@
+body{
+    
+    background-color: #191825;
+    
+    text-align: center;
+    
+}
 
-    body
-    { 
-       background-color: #EAF6F6;
+ .first_box
+    {
+        
+        margin:0 auto;
 
+       
     }
     
-    hr {
+.firstpara 
 
-        border-style: none;
-        border-top-style: dotted ;
-        border-color : grey;
-        border-width: 5px;
-        width:6% 
+    {
+
+ font-size: 140%; 
+
+}
+        
+.middle_container 
+
+{
+
+    position: absolute;
+    margin-left:0 ;
+
+}
+.bottom_container
+
+{
+    
+    margin-bottom: 20px;"
+    margin-bottom: 10%;
+
+}
+    h1
+    {
+        font-size: 60px;
+        color: #37306B;
+        margin: 0 auto 00 auto;
+        
+        font-family: Clash grotesk;
+        align-items: center;
+       
     }
+    
+    h3
+    {
+        font-size: 40px;
+        color:#37306B;
+        margin: 0 auto;
+        font-family: Commissioner;
+        font-style: medium;
+        opacity: 10;
+    }
+        
+.top_cloud
+{
+    
+    right:500PX;
+}
+
+.bottom_cloud
+{
+    position: absolute;
+    left:10px;
+    
+}
+.mountain
+{
+    position:absolute;
+    top:300px;
+    left:0px;
+    
+}
+
+.Udemy
+{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    color:antiquewhite;
+    left:600px;
+    top:1100px;
+}
+
